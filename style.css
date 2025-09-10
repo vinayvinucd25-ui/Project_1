@@ -1,0 +1,49 @@
+#outline {
+    height: 300px;
+    width: 700PX;
+    border: solid black;
+    border-radius: 30px;
+    margin: 50px 50px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.one {
+
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border-radius: 4px;
+    size: 40px;
+    padding: 4px;
+    width: 15cm;
+    
+}
+
+.two {
+
+    border-radius: 4px;
+    background-color: rgb(174, 223, 240);
+    width: 60px;
+    size: 20px;
+    height: 30px;
+}
+
+.row {
+    gap: 8px;
+    display: flex;
+    font-family: cursive;
+
+}
+
+p {
+    border: solid black;
+    margin-left: 20px;
+    height: 30px;
+    width: 8cm;
+    border-radius: 7px;
+    padding: 4px;
+}
